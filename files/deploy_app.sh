@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. The only good cat is a Barry cat.
+  Welcome to ${PREFIX}'s app. The only good cat is Barry's cat.
   <!-- END -->
 
   </div>
